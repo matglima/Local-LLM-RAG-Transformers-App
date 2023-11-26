@@ -1,4 +1,4 @@
-# Project Title: Retrieval-Augmented Generation with Hugging Face Transformers and Gradio
+# Retrieval-Augmented Generation with Hugging Face Transformers and Gradio
 
 ## Overview
 
