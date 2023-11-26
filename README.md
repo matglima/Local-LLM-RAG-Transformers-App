@@ -6,7 +6,7 @@ This project implements a retrieval-augmented generation system that seamlessly 
 
 ## Key Features
 
-- **Cutting-edge Language Models:** Utilize state-of-the-art language models from Hugging Face Transformers for powerful natural language understanding and generation. The user can chose the pre-seted models or look for a model repository ID on 🤗 and add it in the gradio_app.py script.
+- **Cutting-edge Language Models:** Utilize state-of-the-art language models from Hugging Face Transformers for powerful natural language understanding and generation. The user can choose the pre-seted models or look for a model repository ID on 🤗 and add it in the gradio_app.py script.
 
 - **Retrieval-Augmented Generation:** Combine retrieval and generation techniques for comprehensive and context-aware responses to user queries.
 
