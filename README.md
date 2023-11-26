@@ -51,6 +51,10 @@ This project implements a retrieval-augmented generation system that seamlessly 
 4. Experience the system's intelligent retrieval and generation of context-aware responses.
 5. Explore the capabilities of the application for natural language understanding and generation.
 
+## Colab Demo
+
+Explore a live demo of the project in Google Colab: [Colab Demo](https://colab.research.google.com/drive/1u85-OvOHcx_di1gF-jN9Qm180dsDSDKR?usp=sharing)
+
 ## Contribution
 
 Contributions are welcome! If you'd like to contribute to the project, feel free to contact me.
@@ -64,3 +68,20 @@ This project is licensed under the [MIT License](LICENSE).
 - Special thanks to Hugging Face, LangChain and the Gradio team for their exceptional libraries.
 
 ---
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
