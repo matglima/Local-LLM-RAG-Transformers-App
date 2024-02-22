@@ -53,7 +53,7 @@ This project implements a retrieval-augmented generation system that seamlessly 
 
 ## Colab Demo
 
-Explore a live demo of the project in Google Colab: [Colab Demo](https://colab.research.google.com/drive/1u85-OvOHcx_di1gF-jN9Qm180dsDSDKR?usp=sharing)
+Explore a live demo of the project in Google Colab: [Colab Demo](https://colab.research.google.com/drive/1_p-d5KCo2aUwaDBOJr_vVddSWkIjOW6V?usp=sharing)
 
 ## Contribution
 
