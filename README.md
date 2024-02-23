@@ -4,6 +4,11 @@
 
 This project implements a retrieval-augmented generation system that seamlessly integrates local large language models from Hugging Face Transformers. By combining advanced language processing capabilities, the system intelligently retrieves relevant information and generates context-aware responses. The user interface is powered by Gradio, ensuring an interactive and user-friendly experience for input, retrieval, and generation interactions. To prioritize user privacy and security, the application is designed for local execution, giving users control over their data.
 
+## Demo Video
+
+![Demo](https://private-user-images.githubusercontent.com/126526274/307296692-430187a2-75d4-4aac-a18f-9dd9a17a4bcd.webm?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MDg2ODU1ODMsIm5iZiI6MTcwODY4NTI4MywicGF0aCI6Ii8xMjY1MjYyNzQvMzA3Mjk2NjkyLTQzMDE4N2EyLTc1ZDQtNGFhYy1hMThmLTlkZDlhMTdhNGJjZC53ZWJtP1gtQW16LUFsZ29yaXRobT1BV1M0LUhNQUMtU0hBMjU2JlgtQW16LUNyZWRlbnRpYWw9QUtJQVZDT0RZTFNBNTNQUUs0WkElMkYyMDI0MDIyMyUyRnVzLWVhc3QtMSUyRnMzJTJGYXdzNF9yZXF1ZXN0JlgtQW16LURhdGU9MjAyNDAyMjNUMTA0ODAzWiZYLUFtei1FeHBpcmVzPTMwMCZYLUFtei1TaWduYXR1cmU9NjU5MWY4YjFiMmViMDI4MzZiNzIyZTA0OTBhODEwMDczM2NkNDYwN2FkOWM4MjkwZTAyNDIwMzVlZWU3ZDUyZSZYLUFtei1TaWduZWRIZWFkZXJzPWhvc3QmYWN0b3JfaWQ9MCZrZXlfaWQ9MCZyZXBvX2lkPTAifQ.B1oiLU6fKbsdUXT-BIT8SsKawa0xv3BXkSpDLKFxfDw)
+
+
 ## Key Features
 
 - **Cutting-edge Language Models:** Utilize state-of-the-art language models from Hugging Face Transformers for powerful natural language understanding and generation. The user can choose the pre-seted models or look for a model repository ID on 🤗 and add it in the gradio_app.py script.
