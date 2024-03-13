@@ -6,7 +6,7 @@ This project implements a retrieval-augmented generation system that seamlessly 
 
 ## Demo Video
 
-![Demo Video](demo_gif.gif)
+![Demo Video](static/demo_gif.gif)
 
 
 ## Key Features
